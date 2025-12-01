@@ -14,3 +14,15 @@ Full-stack hotel booking application:
 - Node.js 20+ & npm 9+  
 - MySQL 8+  
 
+---
+
+## Build
+cd backend
+mvn clean install
+
+## Build
+cd frontend
+npm install
+
+## Run fullstack
+./run.bat
